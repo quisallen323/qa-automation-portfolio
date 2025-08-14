@@ -27,4 +27,3 @@ qa-automation-portfolio/
 ├── pytest_framework/        # POM, fixtures, assertions
 ├── api_tests/               # API requests + responses
 └── final_project/           # Full automation project (UI + API)
-
